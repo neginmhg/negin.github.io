@@ -4,7 +4,7 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 
 ![preview](preview.jpg)
 
-[See it in action](http://jamigibbs.github.io/phantom/).
+[See it in action](http://negin.github.io/).
 
 ## Fancy using it for your own site?
 
@@ -13,7 +13,7 @@ Here are some steps to get you started:
 1. Clone this repo and cd into the directory:
 
   ```bash
-  git clone https://github.com/jamigibbs/phantom.git your-dir-name && cd your-dir-name
+  git clone https://github.com/neginmhg/phantom.git your-dir-name && cd your-dir-name
   ```
 
 2. Run:
