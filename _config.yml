@@ -16,8 +16,8 @@
 title: "Hello. I'm Negin mahrang."
 email: 'negin_mahrang@yahoo.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://negin.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://neginmhg.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'neginmahrang'
 github_username: 'neginmahrang'
 medium_username: 'blog.neginmahrang.com'
