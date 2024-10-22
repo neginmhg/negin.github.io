@@ -17,8 +17,8 @@ title: "Hello. I'm Negin Mahrang."
 email: 'negin_mahrang@yahoo.com'
 description: "I'm a software engineer from San Francisco specializing 
   in building microservices, APIs, and full-stack applications, while also delivering machine learning solutions and data products that drive business innovation and efficiency."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://neginmhg.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://neginmhg.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'negin_mahrang'
 github_username: 'neginmhg'
 resume_link: 'https://docs.google.com/document/d/1QsNiNY_OW0ofX51Xi6P1USmDUPS72Sdp/edit?usp=sharing&ouid=116083476268480518360&rtpof=true&sd=true'
