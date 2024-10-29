@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Negin Mahrang."
 email: 'negin_mahrang@yahoo.com'
-description: "I'm a software engineer from San Francisco specializing 
-  in building microservices, APIs, and full-stack applications, while also delivering machine learning solutions and data products that drive business innovation and efficiency."
+description: "I'm an experienced software engineer with over 3 years of professional experience from San Francisco specializing 
+  in building microservices, APIs, and full-stack applications, while also delivering machine learning solutions and data products that drive business innovation and revenue generation."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://neginmhg.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'negin_mahrang'
@@ -101,5 +101,6 @@ enable_contact: true
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/portfolio/', text: 'Home' }
+  - { url: '/portfolio/about', text: 'About' }
+  - { url: '/portfolio/resume', text: 'Resume' }

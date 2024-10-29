@@ -2,7 +2,7 @@
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
-![preview](preview.jpg)
+![preview](preview.png)
 
 [See it in action](http://negin.github.io/).
 

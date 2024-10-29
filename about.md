@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-Hello! I’m a passionate software engineer from San Francisco with a strong focus on developing innovative solutions for web applications and cloud infrastructure. Currently, I work at Chevron, where I have successfully led projects that leverage RESTful APIs, Python, C#, and Azure Functions, significantly enhancing system efficiency and availability.
+Hello! I’m an experienced software engineer with over 3 years of professional experience from San Francisco with a strong focus on developing innovative solutions for web applications and cloud infrastructure. Currently, I work at Chevron, where I have successfully led projects that leverage RESTful APIs, Python, C#, and Azure Functions, significantly enhancing system efficiency and availability.
 
 ### Professional Experience
 
