@@ -6,11 +6,12 @@ permalink: /about/
 
 ## About Me
 
-Hello! I’m an experienced software engineer with over 3 years of professional experience from San Francisco with a strong focus on developing innovative solutions for web applications and cloud infrastructure. Currently, I work at Chevron, where I have successfully led projects that leverage RESTful APIs, Python, C#, and Azure Functions, significantly enhancing system efficiency and availability.
+I’m a Software Engineer with 3+ years of experience a strong background in developing scalable full-stack and ML applications, robust API integrations and automations, microservices, and cloud infrastructure solutions. At Chevron, I’ve successfully led and implemented the development of 7 diverse projects in 2024, significantly improving operational efficiency and delivering impactful business results.
 
-### Professional Experience
+I thrive in collaborative environments, where I not only recruit and mentor new engineers but also foster a culture of innovation within cross-functional teams. My leadership style emphasizes open communication and continuous improvement, ensuring that our processes are streamlined and aligned with cutting-edge technologies.
 
-In my role, I have developed and deployed full-stack applications using Angular and FastAPI, engineered integrations using various Azure services, and managed multi-team API products. My efforts have led to a 98% reduction in operational costs and a 75% improvement in case resolution times. I thrive in collaborative environments and am committed to fostering team success through mentorship and knowledge sharing.
+What sets me apart is my commitment to recruiting and mentoring the next generation of engineers and my enthusiasm for exploring new technologies. I am eager to continue my journey in software development, focusing on areas like data engineering and machine learning to create innovative solutions for the future.
+
 
 ### Technical Skills
 
@@ -21,11 +22,7 @@ My expertise encompasses:
 
 ### Interests
 
-Outside of work, I am interested in data science and machine learning, seeking to explore how these technologies can transform various industries. Additionally, I am enthusiastic about advancements in autonomous vehicles and their potential impact on society.
+Outside of work, I’m deeply interested in data science and machine learning and actively explore how these technologies are transforming various industries. I regularly develop new projects on GitHub, allowing me to stay hands-on with the latest advancements and build practical experience. I also attend conferences like API World and AI events in San Francisco, where I connect with industry experts and stay updated on emerging trends
 
-### Entrepreneurial Ventures
-
-I am also the founder of GetListingReels.com, a business focused on creating engaging video content for real estate agents, helping them enhance their marketing strategies and connect with potential clients.
-
-Feel free to reach out if you’d like to connect or collaborate on exciting projects!
-
+### Beyond Tech
+I stay active through running, weightlifting, Pilates, and skiing. Whether it's pushing my endurance on the trails, strengthening in the gym, or enjoying the mountains, I find these activities both energizing and a great way to clear my mind.
