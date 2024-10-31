@@ -19,7 +19,7 @@ description: "I'm an experienced software engineer with over 3 years of professi
   in building microservices, APIs, and full-stack applications, while also delivering machine learning solutions and data products that drive business innovation and revenue generation."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://neginmhg.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-linkedin_username: 'negin_mahrang'
+linkedin_username: 'https://www.linkedin.com/in/negin-mahrang/'
 github_username: 'neginmhg'
 resume_link: 'https://docs.google.com/document/d/1QsNiNY_OW0ofX51Xi6P1USmDUPS72Sdp/edit?usp=sharing&ouid=116083476268480518360&rtpof=true&sd=true'
 
